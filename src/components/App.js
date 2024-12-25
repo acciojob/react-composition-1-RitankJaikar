@@ -21,9 +21,9 @@ const App = () => {
             ))
           }
         </ul>
-        <div>This is content for {value}</div>
+        <div>This is content for {value}.</div>
     </div>
   )
 }
 
-export default App
+export default App;
