@@ -21,7 +21,7 @@ const App = () => {
             ))
           }
         </ul>
-        <div>This is content for {value}.</div>
+        <div>This is the content for {value}.</div>
     </div>
   )
 }
